@@ -1,0 +1,12 @@
+public class Tarea {
+  public static void main(String arg[]){
+  
+  boolean hizoLaTarea = true;
+  boolean noHizoLaTeare= false;
+
+  if(hizoLaTerea)
+    System.out.print("No sales hasta que termines tu tarea");
+   
+ } else {
+  Sytem.out.print("Puedes salir");
+} 
